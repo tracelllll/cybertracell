@@ -1,4 +1,4 @@
-<img src="" alt="banner" />
+<img src="" alt="" />
 
 ---
 

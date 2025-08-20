@@ -56,22 +56,22 @@
     <img height="50" width="50" src="https://img.icons8.com/?size=100&id=LSOtRiURcRCx&format=png&color=000000" />
     <!--Link 15: Cubasis 3-->
 <a href="https://www.steinberg.net/cubasis/" </a> 
-    <img height="50" width="50" src="https://img.icons8.com/?size=100&id=2M4xK91H7Hmp&format=png&color=000000" />
+    <img height="45" width="45" src="https://img.icons8.com/?size=100&id=2M4xK91H7Hmp&format=png&color=000000" />
     <!--Link 15.5: Studio One-->
 <a href="https://www.presonus.com/pages/studio-one-pro" </a> 
-    <img height="50" width="50" src="https://www.thedawstudio.com/wp-content/uploads/2016/02/Studio-One-1024x1024.png" />
+    <img height="45" width="45" src="https://www.thedawstudio.com/wp-content/uploads/2016/02/Studio-One-1024x1024.png" />
     <!--Link 16: SynthEdit-->
 <a href="https://www.synthedit.com/" </a> 
-    <img height="50" width="50" src="https://www.synthedit.com/themes/SynthEdit/images/siteLogo.svg" />
+    <img height="45" width="45" src="https://www.synthedit.com/themes/SynthEdit/images/siteLogo.svg" />
     <!--Link 17: Vital-->
 <a href="https://vital.audio/" </a> 
-    <img height="50" width="50" src="https://vital.audio/images/vital_full_no_background.png" />
+    <img height="45" width="45" src="https://vital.audio/images/vital_full_no_background.png" />
      <!--Link 18: Twin 3-->
 <a href="https://www.fabfilter.com/products/twin-3-synthesizer-plug-in" </a> 
-    <img height="50" width="50" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6f/67/a6/6f67a6a3-37ed-a71f-97f4-20da7c3d1b75/AppIcon-0-0-1x_U007emarketing-0-3-0-85-220.png/512x512bb.jpg" />
+    <img height="45" width="45" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6f/67/a6/6f67a6a3-37ed-a71f-97f4-20da7c3d1b75/AppIcon-0-0-1x_U007emarketing-0-3-0-85-220.png/512x512bb.jpg" />
     <!--Link 19: Pro-Q 3-->
 <a href="https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in" </a> 
-    <img height="50" width="50" src="https://futuremusic.com/wp-content/uploads/fabfilter-pro-q3-featured-futuremusic.jpg" />
+    <img height="45" width="45" src="https://futuremusic.com/wp-content/uploads/fabfilter-pro-q3-featured-futuremusic.jpg" />
     <!--Link 20: JUICE-->
 <a href="https://juce.com/" </a> 
     <img height="150" width="150" src="https://juce.com/wp-content/uploads/2022/07/JUCE-logo-horiz-ondark.png" />

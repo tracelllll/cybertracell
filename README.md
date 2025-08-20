@@ -1,11 +1,10 @@
-<img src="/IMG_0528.PNG" alt="banner" />
+<img src="" alt="banner" />
 
 ---
 
 ### WELCOME TO MY GITHUB/ PORTFOLIO
 
-#### I am a Cyber Security Analyst that likes to dive into various parts of Cyber Security such as 
-#### [Hardware Hacking, Programming For Security, Red Teaming, Blue Teaming, Forensics, and Network Security.]
+#### I am an Audio Engineer, Programmer, and Music Producer. I also have experience in Cyber Security with my 2025 Regional and National competitor for SkillsUSA achievement. 
 #### I also have a strong interest in other forms of hacking such as Lockpicking and Social Engineering.
 
 ---

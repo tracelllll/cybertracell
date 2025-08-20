@@ -4,9 +4,9 @@
 
 ### WELCOME TO MY GITHUB/ PORTFOLIO
 
-#### I am an Audio Engineer, Programmer, and Music Producer. I also have experience in Cyber Security with my 2025 Regional and National competitor for SkillsUSA achievement. 
+#### I am an Audio Engineer, Programmer, and Music Producer/DJ. I also have experience in Cyber Security with my 2025 Regional and National competitor for SkillsUSA achievement. 
 #### I also have a strong interest in other forms of hacking such as Lockpicking and Social Engineering.
-
+####On this Github page, I will be sharing projects centered around my interests like creating networking tools, cyber security tool, but most notably Programming VSTs for music production.
 ---
 
 ### TOOLS, LANGUAGES, & RESOURCES I KNOW

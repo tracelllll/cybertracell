@@ -60,6 +60,9 @@
     <!--Link 14: OSINT-->
 <a href="https://osintframework.com/" </a> 
     <img height="50" width="50" src="https://images.icon-icons.com/1908/PNG/512/4552604-globe-internet-sphere-web_121385.png" />
+<!--Link 14: TRYHACKME-->
+<a href="https://tryhackme.com/" </a> 
+    <img height="50" width="50" src="https://images.icon-icons.com/3915/PNG/512/tryhackme_logo_icon_249349.png" />
 </p>
 
 

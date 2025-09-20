@@ -54,6 +54,12 @@
  <!--Link 14: TOR-->
 <a href="https://www.torproject.org/" </a> 
     <img height="50" width="50" src="https://img.icons8.com/?size=100&id=LSOtRiURcRCx&format=png&color=000000" />
+     <!--Link 14: NOTION-->
+<a href="https://www.notion.com/" </a> 
+    <img height="50" width="50" src="https://images.icon-icons.com/2389/PNG/512/notion_logo_icon_145025.png" />
+    <!--Link 14: OSINT-->
+<a href="https://osintframework.com/" </a> 
+    <img height="50" width="50" src="https://images.icon-icons.com/1908/PNG/512/4552604-globe-internet-sphere-web_121385.png" />
 </p>
 
 

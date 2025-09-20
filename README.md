@@ -86,6 +86,6 @@
 ### MY ACHIEVEMENTS
 <p>
     <!--SKILLSUSA REG. METAL-->
-    <img height="300" width="300" src="https://github.com/tracelllll/tracelllll/blob/main/PXL_20250328_160523168_1747186082239.jpg" />
+    <img height="300" width="300" src="https://raw.githubusercontent.com/tracelllll/tracelllll/refs/heads/main/PXL_20250328_160523168_1747186082239.jpg" />
 
 2025 SkillsUSA, Louisiana Postsecondary (Gold) Winner in Cyber Security

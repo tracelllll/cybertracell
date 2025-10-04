@@ -79,7 +79,7 @@
 " </a> 
     <img height="70" width="70" src="https://img.icons8.com/?size=100&id=ZpcqsfeJuE2Z&format=png&color=000000" />
 <a href="https://www.codedex.io/@trcell" </a> 
-    <img height="60" width="60" src="https://www.codedex.io/images/coin-cropped.png" />
+    <img height="55" width="55" src="https://www.codedex.io/images/coin-cropped.png" />
 
 </p>
 

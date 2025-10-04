@@ -76,7 +76,6 @@
 ### GAME STATS
 
 <!--Link 1: GEOGUESSR-->
-<a href="" </a> 
     <img height="50" width="50" src="https://img.icons8.com/?size=100&id=ZpcqsfeJuE2Z&format=png&color=000000" />
 </p>
 

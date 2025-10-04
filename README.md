@@ -75,8 +75,11 @@
 
 ### GAME STATS
 
-
-
+<p>
+    <a href="https://www.geoguessr.com/user/68dc22550873a61916d389dd
+" </a> 
+    <img height="70" width="70" src="https://img.icons8.com/?size=100&id=ZpcqsfeJuE2Z&format=png&color=000000" />
+</p>
 
 ---
 

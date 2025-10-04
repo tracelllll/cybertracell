@@ -72,9 +72,9 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tracelllll&show_icons=true&theme=dark" />
 
-<img align="center" src="https://www.geoguessr.com/user/68dc22550873a61916d389dd" />
+### GAME STATS
 
-https://www.geoguessr.com/user/68dc22550873a61916d389dd
+<img align="center" src="https://www.geoguessr.com/user/68dc22550873a61916d389dd" />
 
 
 ---
